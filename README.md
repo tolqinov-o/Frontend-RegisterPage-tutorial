@@ -1,9 +1,9 @@
-<img width="100%" src="./Sign-up-tutorial/img/main-gif.gif" alt="Frontend-RegisterPage-HTML-CSS-JavaScript-Tutorials" />
+<img width="100%" height="50%" src="./Sign-up-tutorial/img/main-gif.gif" alt="Frontend-RegisterPage-HTML-CSS-JavaScript-Tutorials" />
 
 # Frontend-RegisterPage-HTML-CSS-JavaScript-Tutorials
 My_Frontend || RegisterPage-HTML-CSS-JavaScript || 10 - Tutorials
 
-## All Lessons
+## All RegisterPage-tutorials
  - [RegisterPage - 1](https://github.com/tolqinov-o/Frontend-RegisterPage-tutorial/tree/main/Sign-up-tutorial)
 
 
@@ -17,6 +17,6 @@ My_Frontend || RegisterPage-HTML-CSS-JavaScript || 10 - Tutorials
 
 - [T.Oqilbek](https://www.github.com/tolqinov-o)
 
-## All RegisterPages Demo
+### All RegisterPages Demo
 
 - [RegisterPage - 1 || Live Demo](https://sign-up-tutorial.netlify.app)
