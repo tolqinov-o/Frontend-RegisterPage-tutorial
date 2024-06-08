@@ -1,10 +1,10 @@
 <table>
     <tr>
         <td>
-            <img width="350px" height="300px" src="./Sign-up-tutorial/img/main-gif.gif" alt="Frontend-RegisterPage-HTML-CSS-JavaScript-Tutorials" />
+            <img width="400px" height="300px" src="./Sign-up-tutorial/img/main-gif.gif" alt="Frontend-RegisterPage-HTML-CSS-JavaScript-Tutorials" />
         </td>
         <td>
-            <img width="350px" height="300px" src="./Sign-up-tutorial/img/main-gif.gif" alt="Frontend-RegisterPage-HTML-CSS-JavaScript-Tutorials" />
+            <img width="400px" height="300px" src="./Sign-up-tutorial/img/main-gif.gif" alt="Frontend-RegisterPage-HTML-CSS-JavaScript-Tutorials" />
         </td>
     </tr>
 </table>
