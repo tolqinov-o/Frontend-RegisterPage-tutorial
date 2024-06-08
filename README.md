@@ -1,5 +1,13 @@
-<img width="100%" height="50%" src="./Sign-up-tutorial/img/main-gif.gif" alt="Frontend-RegisterPage-HTML-CSS-JavaScript-Tutorials" />
-
+<table>
+    <tr>
+        <td>
+            <img width="475px" height="500px" src="./Sign-up-tutorial/img/main-gif.gif" alt="Frontend-RegisterPage-HTML-CSS-JavaScript-Tutorials" />
+        </td>
+        <td>
+            <img width="475px" height="500px" src="./Sign-up-tutorial/img/main-gif.gif" alt="Frontend-RegisterPage-HTML-CSS-JavaScript-Tutorials" />
+        </td>
+    </tr>
+</table>
 # Frontend-RegisterPage-HTML-CSS-JavaScript-Tutorials
 My_Frontend || RegisterPage-HTML-CSS-JavaScript || 10 - Tutorials
 
