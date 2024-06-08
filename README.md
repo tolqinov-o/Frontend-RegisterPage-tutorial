@@ -1,10 +1,7 @@
 <table>
     <tr>
         <td>
-            <img width="475px" height="500px" src="./Sign-up-tutorial/img/main-gif.gif" alt="Frontend-RegisterPage-HTML-CSS-JavaScript-Tutorials" />
-        </td>
-        <td>
-            <img width="475px" height="500px" src="./Sign-up-tutorial/img/main-gif.gif" alt="Frontend-RegisterPage-HTML-CSS-JavaScript-Tutorials" />
+            <img width="500px" height="500px" src="./Sign-up-tutorial/img/main-gif.gif" alt="Frontend-RegisterPage-HTML-CSS-JavaScript-Tutorials" />
         </td>
     </tr>
 </table>
