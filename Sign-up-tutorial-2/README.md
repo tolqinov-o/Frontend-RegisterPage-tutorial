@@ -21,6 +21,7 @@ My_Frontend || RegisterPage-HTML-CSS-JavaScript || 2 - Tutorial
 
 - HTML
 - CSS
+- Responsive
 
 ## Authors
 
