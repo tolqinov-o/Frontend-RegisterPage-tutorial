@@ -13,6 +13,7 @@ My_Frontend || RegisterPage-HTML-CSS-JavaScript || 10 - Tutorials
 
 ## All RegisterPage-tutorials
  - [RegisterPage - 1](https://github.com/tolqinov-o/Frontend-RegisterPage-tutorial/tree/main/Sign-up-tutorial)
+ - [RegisterPage - 2](https://github.com/tolqinov-o/Frontend-RegisterPage-tutorial/tree/main/Sign-up-tutorial-2)
 
 
 ## Tech Stack
@@ -28,3 +29,4 @@ My_Frontend || RegisterPage-HTML-CSS-JavaScript || 10 - Tutorials
 ### All RegisterPages Demo
 
 - [RegisterPage - 1 || Live Demo](https://sign-up-tutorial.netlify.app)
+- [RegisterPage - 2 || Live Demo](https://sign-up-tutorial-2.netlify.app)
