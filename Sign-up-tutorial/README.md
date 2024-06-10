@@ -22,12 +22,13 @@ My_Frontend || RegisterPage-HTML-CSS-JavaScript || 1 - Tutorial
 - HTML
 - CSS
 - JavaScript
+- Bootstrap
 
 ## Authors
 
 - [T.Oqilbek](https://www.github.com/tolqinov-o)
 
-### My Dropbox Demo Link
+### My RegisterPage Demo Link
 
 ```
     https://sign-up-tutorial.netlify.app
