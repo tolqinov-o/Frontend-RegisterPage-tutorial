@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    font-family: "Poppins", sans-serif;
+}
+
+:root {
+    --background-color: #FFFFFF;
+    --text-color: #010307;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+    position: absolute;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--background-color);
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 2px;
+}
+
+::selection{
+  background: rgb(0,123,255,0.3);
+  color: #fff;
+}
+
+body.dark {
+    --background-color: #070707;
+    --text-color: #fff;
+    transition: all 0.5s ease-in-out;
+}
+
+#preloader {
+    background: rgb(47, 46, 46) url(../img/animation.gif) no-repeat center center;
+    width: 100%;
+    min-height: 100vh;
+    position: absolute;
+    z-index: 100;
+}
+
+main {
+    width: 100%;
+    min-height: 100vh;
+    background-color: var(--background-color);
+    transition: all 0.5s ease-in-out;
+}
+
+main nav .navbar-brand {
+    color: var(--text-color);
+}
+
+main nav .navbar-brand:hover {
+    color: var(--text-color);
+}
+
+header h1 {
+    color: var(--text-color);
+}
+
+section .card {
+    animation: scrollReveal ease-in-out both;
+    animation-timeline: view();
+    animation-range: entry 0% cover 50%;
+    transition: all 0.5s;
+}
+
+section .card:hover {
+    margin-top: -6px;
+    transition: 0.5s ease-in-out;
+}
+
+section .row .card h5, p {
+    color: var(--text-color);
+}
+
+footer .card p {
+    color: var(--text-color);
+}
+
+footer .card a {
+    transition: 0.5s ease;
+}
+
+footer .card a:hover {
+    margin-top: -6px;
+    color: #DC3545;
+    transition: 0.5s;
+}
+
+#mode:hover {
+    animation: circle ease-in 0.5s;
+    transition: 0.2s ease-in-out;
+}
+
+/* Animation */
+
+@keyframes scrollReveal {
+    from {
+        opacity: 0.5;
+        transform: translateY(100px);
+    } to {
+        opacity: 1;
+        transform: translateY(0px);
+    }
+}
+
+@keyframes circle {
+    0% {
+        transform: rotate(50deg);
+    }
+    50% {
+        transform: rotate(150deg);
+    }
+    75% {
+        transform: rotate(250deg);
+    }
+    100% {
+        transform: rotate(350deg);
+    }
+}

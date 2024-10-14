@@ -1,0 +1,73 @@
+//Items
+export const cards = [
+    {
+        id: 1,
+        img: "./img/Project/project1.jpg",
+        projectName: "Register Page - 1",
+        projectDemo: "https://sign-up-tutorial.netlify.app",
+        projectCode: "https://github.com/tolqinov-o/Frontend-RegisterPage-tutorial/tree/main/Sign-up-tutorial",
+    },
+    {
+        id: 2,
+        img: "./img/Project/project2.jpg",
+        projectName: "Register Page - 2",
+        projectDemo: "https://sign-up-tutorial-2.netlify.app",
+        projectCode: "https://github.com/tolqinov-o/Frontend-RegisterPage-tutorial/tree/main/Sign-up-tutorial-2",
+    },
+    {
+        id: 3,
+        img: "./img/Project/project3.jpg",
+        projectName: "Register Page - 3",
+        projectDemo: "https://sign-up-tutorial-3.netlify.app",
+        projectCode: "https://github.com/tolqinov-o/Frontend-RegisterPage-tutorial/tree/main/Sign-up-tutorial-3",
+    },
+    {
+        id: 4,
+        img: "./img/Project/project4.jpg",
+        projectName: "Register Page - 4",
+        projectDemo: "https://sign-up-tutorial-4.netlify.app",
+        projectCode: "https://github.com/tolqinov-o/Frontend-RegisterPage-tutorial/tree/main/Sign-up-tutorial-4",
+    },
+    {
+        id: 5,
+        img: "./img/Project/project5.jpg",
+        projectName: "Register Page - 5",
+        projectDemo: "https://sign-up-tutorial-5.netlify.app",
+        projectCode: "https://github.com/tolqinov-o/Frontend-RegisterPage-tutorial/tree/main/Sign-up-tutorial-5",
+    },
+    {
+        id: 6,
+        img: "./img/Project/project6.jpg",
+        projectName: "Register Page - 6",
+        projectDemo: "https://sign-up-tutorial-6.netlify.app",
+        projectCode: "https://github.com/tolqinov-o/Frontend-RegisterPage-tutorial/tree/main/Sign-up-tutorial-6",
+    },
+    {
+        id: 7,
+        img: "./img/Project/project7.jpg",
+        projectName: "Register Page - 7",
+        projectDemo: "https://sign-up-tutorial-7.netlify.app",
+        projectCode: "https://github.com/tolqinov-o/Frontend-RegisterPage-tutorial/tree/main/Sign-up-tutorial-7",
+    },
+    {
+        id: 8,
+        img: "./img/Project/project8.jpg",
+        projectName: "Register Page - 8",
+        projectDemo: "https://sign-up-tutorial-8.netlify.app",
+        projectCode: "https://github.com/tolqinov-o/Frontend-RegisterPage-tutorial/tree/main/Sign-up-tutorial-8",
+    },
+    {
+        id: 9,
+        img: "./img/Project/project9.jpg",
+        projectName: "Register Page - 9",
+        projectDemo: "https://sign-up-tutorial-9.netlify.app",
+        projectCode: "https://github.com/tolqinov-o/Frontend-RegisterPage-tutorial/tree/main/Sign-up-tutorial-9",
+    },
+    {
+        id: 10,
+        img: "./img/Project/project10.jpg",
+        projectName: "Register Page - 10",
+        projectDemo: "https://sign-up-tutorial-10.netlify.app",
+        projectCode: "https://github.com/tolqinov-o/Frontend-RegisterPage-tutorial/tree/main/Sign-up-tutorial-10",
+    },
+];
