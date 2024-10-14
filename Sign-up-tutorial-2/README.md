@@ -1,5 +1,5 @@
-# Frontend-RegisterPage-HTML-CSS-JavaScript-Tutorials
-My_Frontend || RegisterPage-HTML-CSS-JavaScript || 2 - Tutorial
+# Frontend-RegisterPage-HTML-CSS-BOOTSTRAP-JavaScript-Tutorials
+My_Frontend || RegisterPage-HTML-CSS-BOOTSTRAP-JavaScript || 2 - Tutorial
 
 ## Screenshots
 <table>
@@ -30,5 +30,5 @@ My_Frontend || RegisterPage-HTML-CSS-JavaScript || 2 - Tutorial
 ### My RegisterPage Demo Link
 
 ```
-    https://sign-up-tutorial-2.netlify.app
+https://sign-up-tutorial-2.netlify.app
 ```
